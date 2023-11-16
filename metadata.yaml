@@ -5,6 +5,9 @@ contributor:
     agent_name: Hooker, William Jackson
     gutenberg_agent_id: '56531'
     url: http://www.gutenberg.org/2009/agents/56531
+covers:
+- cover_type: archival
+  image_path: 72084-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dochard, (Surgeon)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '39572'
     url: http://www.gutenberg.org/2009/agents/39572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72084#Travels-in-Western-Africa-in-the-years-1818-19-20-and-21-from-the-river-Gambia-through-Woolli_
 gutenberg_issued: '2023-11-10'
 identifiers:
   gutenberg: '72084'
